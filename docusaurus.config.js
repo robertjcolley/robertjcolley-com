@@ -15,6 +15,7 @@ const config = {
   favicon: "img/avatar.png",
   organizationName: "robertjcolley", // Usually your GitHub org/user name.
   projectName: "robertjcolley-com", // Usually your repo name.
+  deploymentBranch: "main",
   trailingSlash: false,
 
   // Even if you don't use internalization, you can use this field to set useful
