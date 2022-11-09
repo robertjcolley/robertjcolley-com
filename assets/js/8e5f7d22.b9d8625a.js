@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrobertjcolley_com=self.webpackChunkrobertjcolley_com||[]).push([[1852],{346:a=>{a.exports=JSON.parse('{"label":"marathon","permalink":"/blog/tags/marathon","allTagsPath":"/blog/tags","count":1}')}}]);
