@@ -1,11 +1,7 @@
 ---
 title: Running the Paddy's Pub 5k
 description: Robert's thoughts, experiences, and stories about the Paddy's Pub 5k. My goal was a 20 minute 5k... did I achieve my goal?
-authors:
-  - name: Robert Colley
-    title: 20 minute 5k or buster
-    url: https://github.com/robertjcolley
-    image_url: https://github.com/robertjcolley.png
+authors: bobby
 tags: [5k, running, balance, cambridge, massachusetts, fast]
 ---
 

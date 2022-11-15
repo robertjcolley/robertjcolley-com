@@ -1,11 +1,7 @@
 ---
 title: Running the Old Port Half Marathon
 description: My thoughts, experiences, and stories about the Old Port Half Marathon
-authors:
-  - name: Robert Colley
-    title: 2x Half Marathoner
-    url: https://github.com/robertjcolley
-    image_url: https://github.com/robertjcolley.png
+authors: bobby
 tags: [half, marathon, hills, running, balance]
 ---
 

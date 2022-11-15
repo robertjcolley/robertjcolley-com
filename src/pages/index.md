@@ -1,6 +1,6 @@
 ---
-title: Software Engineer, Friend, Leader, Entrepreneur | Robert Colley
-description: Hi! My name is Robert Colley and I'm a Boston-based software engineer. I specialize in web applications and web technology.
+title: Robert Colley - Software Engineer, Friend, Leader, Entrepreneur
+description: Robert Colley is a Boston-based software engineer. Robert specializes in web applications and web technology.
 image: /img/robert-colley.jpeg
 keywords: [keywords, describing, the main topics]
 ---

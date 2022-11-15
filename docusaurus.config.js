@@ -63,6 +63,10 @@ const config = {
           name: "keywords",
           content: "robert, colley, bobby, software, somerville, boston",
         },
+        {
+          name: "og:image",
+          content: "/img/robert-colley.jpeg",
+        },
       ],
       navbar: {
         title: "Robert Colley",
@@ -107,6 +111,10 @@ const config = {
               {
                 label: "Blog",
                 to: "/blog",
+              },
+              {
+                label: "Archive",
+                to: "blog/archive",
               },
             ],
           },

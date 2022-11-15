@@ -1,11 +1,7 @@
 ---
 title: My Failed Business and What I Learned
 description: Robert's thoughts & experiences starting a mobile app business. I learned a lot through this experience and want to start another business!
-authors:
-  - name: Robert Colley
-    title: Business Starter
-    url: https://github.com/robertjcolley
-    image_url: https://github.com/robertjcolley.png
+authors: bobby
 tags: [business, app, entrepreneur, experience, learning]
 ---
 
