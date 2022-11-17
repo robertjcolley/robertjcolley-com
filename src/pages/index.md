@@ -9,7 +9,7 @@ keywords: [keywords, describing, the main topics]
 
 ![Picture of Robert Colley](../../static/img/robert-colley.jpeg "Robert Colley")
 
-Hi! I'm a professional software engineer currently working at Hologic, Inc. in R&D. I am passionate about creating high-performance web applications that solve problems. Thus far, I have built my career on Wellness Technology and Medical Technology. I'm open to discussing all opportunities to work together!
+Hi! My name is Robert Colley and I'm a professional software engineer currently working at Hologic, Inc. in R&D. I am passionate about creating high-performance web applications that solve problems. Thus far, I have built my career on Wellness Technology and Medical Technology. I'm open to discussing all opportunities to work together!
 
 ## Robert's Projects
 
