@@ -1,63 +1,70 @@
 ---
 title: Robert Colley - Software Engineer, Friend, Leader, Entrepreneur
 description: Robert Colley is a Boston-based software engineer. Robert specializes in web applications and web technology.
-image: /img/robert-colley.jpeg
-keywords: [keywords, describing, the main topics]
+image: /img/robert-colley.png
+keywords:
+  [
+    robert,
+    colley,
+    software,
+    engineer,
+    boston,
+    web,
+    dotnet,
+    javascript,
+    typescript,
+    react,
+  ]
 ---
 
-# Who is Robert Colley?
+# Robert Colley
 
 ![Picture of Robert Colley](../../static/img/robert-colley.jpeg "Robert Colley")
 
-Hi! My name is Robert Colley and I'm a professional software engineer currently working at Hologic, Inc. in R&D. I am passionate about creating high-performance web applications that solve problems. Thus far, I have built my career on Wellness Technology and Medical Technology. I'm open to discussing all opportunities to work together!
+Hi! My name is Robert Colley and I'm a professional software engineer currently working at Hologic, Inc. in R&D. I am passionate about creating high-performance web applications that solve problems. Thus far, I have built my career on Health & Wellness technology and Medical Device technology.
 
-## Robert's Projects
+## My Projects
 
-### [Jivista](https://jivista-io.vercel.app)
+### Genius Digital Diagnostics System - Connectivity & Image Management Server
+
+Medical device for screening Cervical cancer from [ThinPrep® Pap Test](https://www.hologic.com/hologic-products/cytology/aptima-hpv-thinprep-cervical-health)
+
+Link: [Genius Digital Diagnostics System](https://www.hologic.com/hologic-products/cytology/genius-digital-diagnostics-system)
+
+### Jivista
 
 Platform for tenants to find and rent properties
 
-### [AthElites.io](https://www.athelites.io)
+Link: [Jivista](https://jivista-io.vercel.app)
+
+### AthElites.io
 
 Mobile application for tracking workouts more accurately using speech-to-text.
 
-### [NextStep HealthTech](https://nextstep.world)
+Link: [AthElites.io](https://www.athelites.io)
 
-#### [NextStep GoodLife](https://nextstepgoodife.com)
+### NextStep HealthTech
 
-Social platform for youth ages 12-18 to engage with and share social wellness content. Partnered with [NYC Office of Community Mental Health](https://mentalhealth.cityofnewyork.us/wp-content/uploads/2022/01/MH_Report_v3.1_pages.pdf) to bring accessible mental health care resources to latinx youth in the Washington Heights Neighborhood.
+Link: [NextStep HealthTech](https://nextstep.world)
 
-#### [NextStep.Health](https://nextstep.health)
+#### NextStep GoodLife
+
+Social platform for youth ages 12-18 to engage with and share social wellness content. Sponsored by [NH Department of Education](https://www.education.nh.gov/) and [NYC Office of Community Mental Health](https://mentalhealth.cityofnewyork.us/wp-content/uploads/2022/01/MH_Report_v3.1_pages.pdf) to bring accessible mental health care resources to youth.
+
+Link: [NextStep GoodLife](https://nextstepgoodife.com)
+
+#### NextStep.Health
 
 Multi-sided marketplace for connecting mental health care providers to clients.
 
-#### [NextStep Bloom](https://nextstepbloom.com)
+Link: [NextStep.Health](https://nextstep.health)
+
+#### NextStep Bloom
 
 Social platform for youth ages 4-12 to engage with wellness content.
 
-## Robert's Goals
-
-- Build savings for financial preparedness and starting my own business in ~5 years
-- Build resiliency
-- Enjoy the effort of doing hard things
-- Build social network via work, running, soccer, lifting, etc.
-
-### Career Goals
-
-- Build experience, credibility, & resilience by working with customers, engineers, management, and leadership in my current role
-
-### Exercise Goals
-
-- Run a 20 minute 5k
-- Bench Press 315 pounds
-- Squat 315 pounds
-- DeadLift 495 pounds
-- Overhead Press 225 pounds
-
-### Fun Goals
-
-- Reach 1000 ELO on [chess.com](https://www.chess.com)
+Link: [NextStep Bloom](https://nextstepbloom.com)
 
 ## Get in touch with Robert
 
-My email is [robertjcolley@gmail.com](mailto:robertjcolley@gmail.com). You can also reach me at my [Socials](https://linktr.ee/robertjcolley), although I will be less responsive since I try not to use social media.
+My email is [robertjcolley@gmail.com](mailto:robertjcolley@gmail.com).

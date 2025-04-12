@@ -1,18 +1,20 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
-const lightCodeTheme = require("prism-react-renderer/themes/github");
-const darkCodeTheme = require("prism-react-renderer/themes/dracula");
+const { themes } = require("prism-react-renderer");
+const lightCodeTheme = themes.github;
+const darkCodeTheme = themes.dracula;
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "Robert Colley",
-  tagline: "Issues? What issues?",
+  tagline:
+    "Robert Colley is a Boston-based software engineer. Robert specializes in web applications and web technology in the Medical Device industry.",
   url: "https://robertjcolley.com",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
-  favicon: "img/avatar.png",
+  favicon: "img/robert-colley-icon-circle.png",
   organizationName: "robertjcolley", // Usually your GitHub org/user name.
   projectName: "robertjcolley-com", // Usually your repo name.
   deploymentBranch: "gh-pages",
@@ -99,10 +101,6 @@ const config = {
                 label: "GitHub",
                 href: "https://github.com/robertjcolley",
               },
-              {
-                label: "Socials",
-                href: "https://linktr.ee/robertjcolley",
-              },
             ],
           },
           {
@@ -119,11 +117,12 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Robert Colley. Built with Docusaurus.`,
+        copyright: `Copyright © 2022-${new Date().getFullYear()} Robert Colley. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
+        additionalLanguages: ["bash", "diff"],
       },
     }),
 };
