@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkrobertjcolley_com=self.webpackChunkrobertjcolley_com||[]).push([[4853],{1236:s=>{s.exports=JSON.parse('{"label":"massachusetts","permalink":"/blog/tags/massachusetts","allTagsPath":"/blog/tags","count":1}')}}]);

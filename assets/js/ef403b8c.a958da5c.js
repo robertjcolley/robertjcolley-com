@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkrobertjcolley_com=self.webpackChunkrobertjcolley_com||[]).push([[502],{1702:e=>{e.exports=JSON.parse('{"label":"entrepreneur","permalink":"/blog/tags/entrepreneur","allTagsPath":"/blog/tags","count":1}')}}]);
