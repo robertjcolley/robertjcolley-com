@@ -7,10 +7,6 @@ keywords: [todo]
 
 # TODO
 
-## Maintenance
-
-- [ ] Update site to [Docusaurus v3](https://docusaurus.io/docs/migration/v3)
-
 ## Site
 
 - [ ] [SEO](https://docusaurus.io/docs/seo)
@@ -24,3 +20,7 @@ keywords: [todo]
 ### Track Calc
 
 - [ ] Create page
+
+### Blog
+
+- [ ] Remove old blog posts
