@@ -38,8 +38,7 @@ const config = {
         // },
         blog: {
           blogTitle: "My Personal Blog",
-          blogDescription:
-            "Robert Colley's personal blog. Robert discusses software, business, running, chess, lifting, and anything else he finds interesting!",
+          blogDescription: "Robert Colley's personal blog.",
           showReadingTime: true,
           postsPerPage: "ALL",
         },
@@ -63,7 +62,8 @@ const config = {
       metadata: [
         {
           name: "keywords",
-          content: "robert, colley, bobby, software, somerville, boston",
+          content:
+            "robert, colley, bobby, software, engineer, boston, massachusetts",
         },
         {
           name: "og:image",
@@ -84,6 +84,7 @@ const config = {
           //   label: "Tutorial",
           // },
           { to: "/blog", label: "Blog", position: "left" },
+          { to: "/projects", label: "Projects", position: "left" },
           {
             href: "https://github.com/robertjcolley",
             label: "GitHub",
@@ -107,17 +108,17 @@ const config = {
             title: "More",
             items: [
               {
-                label: "Blog",
-                to: "/blog",
+                label: "Projects",
+                to: "/projects",
               },
               {
-                label: "Archive",
-                to: "blog/archive",
+                label: "Blog",
+                to: "/blog",
               },
             ],
           },
         ],
-        copyright: `Copyright © 2022-${new Date().getFullYear()} Robert Colley. Built with Docusaurus.`,
+        copyright: `Copyright © 2022-${new Date().getFullYear()} Robert Colley.`,
       },
       prism: {
         theme: lightCodeTheme,
