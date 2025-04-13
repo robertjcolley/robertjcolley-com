@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrobertjcolley_com=self.webpackChunkrobertjcolley_com||[]).push([[146],{9328:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/blog","page":1,"postsPerPage":1,"totalPages":1,"totalCount":1,"blogDescription":"Robert Colley\'s personal blog.","blogTitle":"My Personal Blog"}}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrobertjcolley_com=self.webpackChunkrobertjcolley_com||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"TODO","permalink":"/blog/2025/04/12/todo","unlisted":false,"date":"2025-04-12T00:00:00.000Z"}]}')}}]);

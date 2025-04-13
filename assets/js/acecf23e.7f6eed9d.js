@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkrobertjcolley_com=self.webpackChunkrobertjcolley_com||[]).push([[1903],{1912:o=>{o.exports=JSON.parse('{"blogBasePath":"/blog","blogTitle":"My Personal Blog","authorsListPath":"/blog/authors"}')}}]);
