@@ -173,7 +173,7 @@ export const EVALUATIVE_WORDS_MAPPING = {
     mistakenEmotions: "Lonely, scared, hurt, sad, embarrassed"
       .split(",")
       .map((item) => item.trim()),
-    universalNeeds: "Connection, belonging, inclusion, community. participation"
+    universalNeeds: "Connection, belonging, inclusion, community, participation"
       .split(",")
       .map((item) => item.trim()),
   },
