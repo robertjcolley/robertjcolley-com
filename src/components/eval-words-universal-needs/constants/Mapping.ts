@@ -58,7 +58,7 @@ export const EVALUATIVE_WORDS_MAPPING = {
 
   Blamed: {
     mistakenEmotions:
-      "Angry, scared, confused, antagonistic, hostile, bewildered, hurt"
+      "Angry, scared, confused, antagonized, hostile, bewildered, hurt"
         .split(",")
         .map((item) => item.trim()),
     universalNeeds: "Accountability, causality, fairness, justice"
@@ -355,7 +355,7 @@ export const EVALUATIVE_WORDS_MAPPING = {
   },
 
   "Ripped off/screwed": {
-    mistakenEmotions: "Anger, resentment, disappointed"
+    mistakenEmotions: "Angry, resentment, disappointed"
       .split(",")
       .map((item) => item.trim()),
     universalNeeds: "Consideration, justice, acknowledgement, trust"
@@ -389,7 +389,7 @@ export const EVALUATIVE_WORDS_MAPPING = {
   },
 
   "Trampled/walked on": {
-    mistakenEmotions: "Angry, frustrated overwhelmed"
+    mistakenEmotions: "Angry, frustrated, overwhelmed"
       .split(",")
       .map((item) => item.trim()),
     universalNeeds:
