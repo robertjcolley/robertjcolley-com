@@ -17,7 +17,13 @@ export const EvalWordsUniversalNeedsTool: FC = () => {
    */
   const handleChangeForm = (e: React.ChangeEvent<HTMLFormElement>) => {
     // console.log("[handleChangeForm] event", e);
-    setSelectedEvaluativeWords((cur) => new Set([...cur, e.target.name]));
+    if (selectedEvaluativeWords.has(e.target.name)) {
+      setSelectedEvaluativeWords(
+        (cur) => new Set([...cur].filter((item) => item !== e.target.name))
+      );
+    } else {
+      setSelectedEvaluativeWords((cur) => new Set([...cur, e.target.name]));
+    }
   };
 
   let commonUnmetNeedsCount = {};
@@ -38,20 +44,24 @@ export const EvalWordsUniversalNeedsTool: FC = () => {
   return (
     <div>
       <h2>Evaluative Words</h2>
-      <form onChange={handleChangeForm}>
-        {Object.keys(EVALUATIVE_WORDS_MAPPING).map((item) => (
-          <label key={item + "-label"}>
-            <input
-              type="checkbox"
-              id={item + "-checkbox"}
-              name={item}
-              value={item}
-              key={item + "-input"}
-            />
+      <form onChange={handleChangeForm} style={{ marginBottom: 16 }}>
+        <ul style={{ listStyleType: "none" }}>
+          {Object.keys(EVALUATIVE_WORDS_MAPPING).map((item) => (
+            <li key={item + "-label"}>
+              <label>
+                <input
+                  type="checkbox"
+                  id={item + "-checkbox"}
+                  name={item}
+                  value={item}
+                  key={item + "-input"}
+                />
 
-            {item}
-          </label>
-        ))}
+                {item}
+              </label>
+            </li>
+          ))}
+        </ul>
       </form>
 
       {selectedEvaluativeWords.size > 0 ? (
@@ -79,7 +89,7 @@ export const EvalWordsUniversalNeedsTool: FC = () => {
               .sort(
                 (a, b) => commonUnmetNeedsCount[b] - commonUnmetNeedsCount[a]
               )
-              .slice(0, 10)
+              // .slice(0, 10)
               .map((item) => (
                 <li key={item + "-list-item"}>
                   <b>{item}</b>: {commonUnmetNeedsCount[item]}
